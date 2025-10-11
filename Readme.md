@@ -1,3 +1,25 @@
+## Carrot Collective Projects
+
+
+[ERCF v3](https://github.com/Carrot-collective/ERCF_v3)
+
+[ERCT / CottonTail](https://github.com/Carrot-collective/ERCT)
+
+[Filametrix Toolhead Cutter Buffer](https://github.com/Carrot-collective/Filametrix)
+
+[Blobifier Purge System](https://github.com/Carrot-collective/Blobifier)
+
+[Filamentalist Rewinder Buffer](https://github.com/Carrot-collective/Filamentalist)
+
+
+### Carrot Collective Affiliates
+
+[Jabberwocky Toolhead](https://github.com/kinematicdigit/Jabberwocky)
+
+[Happy Hare Wiki](https://github.com/moggieuk/Happy-Hare/wiki)
+
+<br />
+
 ![Blobifier Render](https://raw.githubusercontent.com/Dendrowen/Blobifier/main/Pictures/Render_Full.png)
 Do you like the Blobifier? Consider [buying me a coffee](https://www.buymeacoffee.com/dendrowen) or support me through [paypal](https://www.paypal.com/donate/?business=H88MZT7TGXNWJ&no_recurring=0&item_name=Support+my+work&currency_code=EUR)
 
